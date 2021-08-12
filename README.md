@@ -1,5 +1,5 @@
 Step 1:
-    --->  git clone https://github.com/mishraankit-1497/ny-times-article
+    --->  git clone https://github.com/mishraankit-1497/ny-times-article.git
     
 Step 2:Change directory to the project folder
      --->  cd ny-times-article
